@@ -42,16 +42,14 @@
     - 试一下中文
     - 看看有没有乱码
 
-- name: catfishlty
-  headimg: https://avatars0.githubusercontent.com/u/12734411?v=3&s=96
-  github: catfishlty
-  github_id: abc
-  email: dontkonw@hackswjtu.com
+- name: 蔷薇
+  headimg: https://http://ofsbfjrbr.bkt.clouddn.com/20120815170312_cyZui.jpeg
+  github:Impossibility
+  github_id:Impossibility
+  email: qw@hackswjtu.com
   blog: www.swjtu.edu.cn
   technology_stack:
-    - 千年测试位置
-    - 谁让你c开头排第一
-    - 数量不够复制几个
+    - C language
 
 - name: catfishlty
   headimg: https://avatars0.githubusercontent.com/u/12734411?v=3&s=96
